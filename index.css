@@ -1,3 +1,51 @@
 p { text-align: center;
 
 }
+.welcome p { 
+   
+    border-top: 10px solid black;
+    border-bottom: 10px solid black ;
+    border-left: 10px solid black;
+    border-right: 10px solid black ;
+    
+}
+ .eren {
+     
+     text-align: center;
+     background-color: gray;
+ } 
+ .eren img {
+     size: 500px;
+
+ }
+
+ .armin {
+     text-align: center;
+     background-color:bisque;
+     
+ }
+ .Mikasa {
+     text-align: center;
+     background-color: blueviolet;
+ }
+ .jean {
+     text-align: center;
+     background-color: blue;
+ }
+ .Connie {
+      text-align: center;
+      background-color: brown;
+ }
+ .hange {
+     text-align: center;
+     background-color: azure;
+ } 
+ .livai {
+     text-align: center;
+     background-color: aliceblue;
+ }
+ .sasha {
+     text-align: center;
+     background-color: tomato;
+ } 
+ 
